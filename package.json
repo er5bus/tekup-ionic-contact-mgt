@@ -1,0 +1,79 @@
+{
+  "name": "tekup-ionic-contact-management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/camera": "^1.2.1",
+    "@capacitor/core": "3.3.2",
+    "@capacitor/filesystem": "^1.0.6",
+    "@capacitor/storage": "^1.2.3",
+    "@ionic/pwa-elements": "^3.0.2",
+    "@ionic/react": "^5.5.0",
+    "@ionic/react-router": "^5.5.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.6.3",
+    "@types/jest": "^26.0.20",
+    "@types/node": "^12.19.15",
+    "@types/react": "^17.0.1",
+    "@types/react-dom": "^17.0.1",
+    "@types/react-router": "^5.1.11",
+    "@types/react-router-dom": "^5.1.7",
+    "ionicons": "^5.4.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^7.20.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "typescript": "^4.1.3",
+    "web-vitals": "^0.2.4",
+    "workbox-background-sync": "^5.1.4",
+    "workbox-broadcast-update": "^5.1.4",
+    "workbox-cacheable-response": "^5.1.4",
+    "workbox-core": "^5.1.4",
+    "workbox-expiration": "^5.1.4",
+    "workbox-google-analytics": "^5.1.4",
+    "workbox-navigation-preload": "^5.1.4",
+    "workbox-precaching": "^5.1.4",
+    "workbox-range-requests": "^5.1.4",
+    "workbox-routing": "^5.1.4",
+    "workbox-strategies": "^5.1.4",
+    "workbox-streams": "^5.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@capacitor/cli": "3.3.2",
+    "@ionic/cli": "6.18.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.2",
+    "@types/lodash": "^4.14.177",
+    "cordova-res": "0.15.3",
+    "native-run": "1.5.0",
+    "react-refresh": "^0.11.0",
+    "react-scripts": "4.0.2"
+  }
+}

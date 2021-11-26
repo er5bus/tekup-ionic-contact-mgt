@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  tekup_contact_mangment_ionic_react_dev:
+    build:
+      context: .
+    volumes:
+      - ./src:/app/src
+      - ./public/index.html:/app/public/index.html
+      - ./public/assets:/app/public/assets
+      - ./package.json:/app/package.json
+    ports:
+      - "3010:8100"
+    tty: true
