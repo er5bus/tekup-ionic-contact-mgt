@@ -15,13 +15,11 @@ The contacts are classified according to these categories (friends | family | pr
 
 NB: Do not allow 2 entries with the same phone number in our contact list.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## Screenshots
 <table width="100%">
 <tr>
-  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt.git/blob/main/screenshot/index.png?raw=true"></th>
-  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt.git/blob/main/screenshot/list-contact.png?raw=true"></th>
-  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt.git/blob/main/screenshot/add-contact.png?raw=true"></th>
+  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt/blob/main/screenshot/index.png?raw=true"></th>
+  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt/blob/main/screenshot/list-contact.png?raw=true"></th>
+  <th width="33.33%"><img src="https://github.com/er5bus/tekup-ionic-contact-mgt/blob/main/screenshot/add-contact.png?raw=true"></th>
 <tr>
 </table>
